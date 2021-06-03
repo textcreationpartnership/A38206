@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles, or charge, exhibited in Parliament against D. Cozens of Durham, anno 1641.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38206</idno><idno type="EEBO-CITATION">11204919</idno>
+  <idno type="VID">46748</idno>
+  <idno type="EEBO-PROQUEST">2240899653</idno>
+  
+            <idno type="STC">Wing E2528</idno>
+            <idno type="STC">ESTC R29775</idno>
+            <idno type="OCLC">11204919</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46748)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles, or charge, exhibited in Parliament against D. Cozens of Durham, anno 1641.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed:</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cosin, John, 1594-1672.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46748:1"/>
+            <pb facs="tcp:46748:1"/>
+            <p>THE ARTICLES <hi>OR,</hi> CHARGE EXHIBITED IN Parliament against D. COZENS of <hi>Durham, Anno</hi> 1641.</p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's device (McKerrow no. 268)</figDesc>
+            </figure>
+            <p>London, Printed. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46748:2"/>
+            <pb n="1" facs="tcp:46748:2"/>
+            <head>THE CHARGE AGAINST DOCTOR COZENS, consisting of these severall ARTICLES.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat he was the first man that caused the Communion Table in the Church of <hi>Durham,</hi> to be removed and set Altar<g ref="char:EOLhyphen"/>wise, in the erecting and beautifying wher<g ref="char:EOLhyphen"/>of, he (being then Treasurer) expended two hundred pounds.</p>
+            <p n="2">2. That he used to officiate at the West side thereof, turning his back to the people.</p>
+            <p n="3">3. That he used extraordinary bowing to it.</p>
+            <p n="4">4. That he compelled others to doe it, using violence to the persons of them that refused so to doe: for in<g ref="char:EOLhyphen"/>stance, once some omitting it, he comes out of his Seat, down to the Seat where they fate, being Gen<g ref="char:EOLhyphen"/>tlewomen, called them Whores and Jades, and Pa<g ref="char:EOLhyphen"/>gans, and the like unseemly words, and rent some of their Clothes.</p>
+            <pb n="2" facs="tcp:46748:3"/>
+            <p>5. That he converted divers prayers in the book of Common prayers into Hymnes, to be sung in the Quire, and played with the Organ, contrary to the ancient custome of that Church.</p>
+            <p n="6">6. That whereas it had been formerly a custome in that Church, at the end of every Sermon to sing a Psalme; this custome, when D. <hi>Cozens</hi> came thither was abrogated, and instead thereof they sung an An<g ref="char:EOLhyphen"/>them in the Quire, there being no Psalm sung either at the Ministers going up into the Pulpit, or at his comming downe.</p>
+            <p n="7">7. That the first Candlemas day at night that he had been in that Church, he caused three hundred waxe Candles to be set up, and lighted in the Church at once, in honour of our Lady, and placed threescore of them upon and about the Altar.</p>
+            <p n="8">8. That in this Church there were reliques of divers Images, above which were remaining the ruines of two Seraphims, with the picture of Christ between them, erected in Queen <hi>Maries</hi> time in the time of Popery, all which when Q. <hi>Elizabeth</hi> came to the Crown, were demolisht by vertue of a Commission by her to that intent granted, which so continued de<g ref="char:EOLhyphen"/>molished from that time, till D. <hi>Cozens</hi> came to that Church, who being Treasurer, caused the same to be repaired, and most gloriously painted.</p>
+            <p n="9">9. That all the time that he was unmarried, he wore
+<pb n="3" facs="tcp:46748:3"/> a Cope made of white Sattin, never officiating in any other, it being reserved solie for him, no man except himself making use thereof, which after marriage he cast off, and never after wore.</p>
+            <p n="10">10. That there was a Knife belonging to the Church, kept altogether in the Vestrie, being put to none but holy uses, as cutting the bread in the Sacrament, and the like, Doctor <hi>Cozens</hi> refusing to cut the same with any other but that, thinking all others that were un<g ref="char:EOLhyphen"/>consecrated, polluted, but that, which he putting ho<g ref="char:EOLhyphen"/>linesse in, never termed but the consecrated Knife.</p>
+            <p n="11">11. That he in a Sermon preached in that Church, did deliver certain words in disgrace of the Reformers of our Church, for instance, the words were these, <hi>The Reformers of this Church, when they abolished the Masse, tooke away all good order, and instead of Reformation, made it a Deformation.</hi>
+            </p>
+            <p n="12">12. That he seldome or never in any of his Sermons stiled the Ministers of the Word and Sacraments by any other name then Priests, nor the Communion-Table by any other name then Altar.</p>
+            <p n="13">13. That by his appointment there was a Cope bought, the seller being a convicted Jesuit, and afterwards imployed in that Church, having upon it the picture of the invisible, and incomprehensible Trinity.</p>
+            <p n="14">14. That whereas it had been formerly a custome in that Church, at five of the Clock to have morning
+<pb n="4" facs="tcp:46748:4"/> Prayers read Winter and Summer, This custome when D. <hi>Cozens</hi> came thither, was abandoned, and in stead thereof was used singing, and playing on the Or<g ref="char:EOLhyphen"/>gans, and some few prayers read, and this was called first Service, which being ended, the people departed out of the Church, returning at nine a Clock, and having then morning prayers read unto them, and this was called second Service, which Innovation be<g ref="char:EOLhyphen"/>ing misliked, and complained of by Master <hi>Iustice Hutton,</hi> was reformed.</p>
+            <p n="15">15. That he framed a superstitious ceremony in light<g ref="char:EOLhyphen"/>ing the Tapers which were placed on the Altar, which for instance was this, A company of boyes that belonged to the Church came in at the Quire doore with Torches in their hands lighted, bowing towards the Altar at their first entrance, bowing thrice before they lighted their Tapers, having done, they withdrew themselves, bowing so oft as before; not once turning their back-parts towards the Altar, the Organs all the time going.</p>
+            <p n="16">16. That he counselled some yong Students of the U<g ref="char:EOLhyphen"/>niversity to be imitators and practisers of his super<g ref="char:EOLhyphen"/>stitious Ceremonies, who to ingratiate themselves in his favour, did accordingly, and being afterwards reproved for the same by some of their friends, con<g ref="char:EOLhyphen"/>fessed that D. <hi>Cozens</hi> first induced them to that pra<g ref="char:EOLhyphen"/>ctice, and encouraged them therein.</p>
+            <p n="17">17. That he used upon Communion daies to make the signe of the Crosse with his finger both upon the
+<pb n="5" facs="tcp:46748:4"/> seats whereon they were to sit, and the Cushions to kneele upon, using some words when he so did.</p>
+            <p n="18">18. That one Sabbath day there was set up an unnecessa<g ref="char:EOLhyphen"/>ry company of Tapers and Lights in the Church, which D. <hi>Hunt</hi> being then Dean, fearing they might give offence, being they were unnecessary, sent his man to pull them down, who did so; But D. <hi>Cozens</hi> being there at aggrieved, came to the fellow, and there miscalled him in most uncivill manner, and began to beat him in the publique view of the Congregation, to the great disturbance of the same.</p>
+            <p n="19">19. That the Deane and Chapiter of that Church whereof D. <hi>Cozens</hi> was one, with many others being invited to dinner in the Town of <hi>Durham:</hi> D. <hi>Cozens</hi> then, and there spake words derogating from the Kings Prerogative: The words were these, The King hath no more power over the Church, than the boy that rubs my horse heeles.</p>
+            <p n="20">20. That there being many of the Canons of the said Church present at that time, amongst the rest there was one took more notice of his words then the rest, and acquainted one of his fellow Canons with them when he came home; This Canon being a friend to D. <hi>Cozens,</hi> told the Doctor that such a man exclaim<g ref="char:EOLhyphen"/>ed of him, and charged him with words that he should speak at such a time; The Doctor presently sends for him, and when he came into the house, the Do<g ref="char:EOLhyphen"/>ctor desires him to follow him into an inner roome, who did so; But so soon as he came in, the Doctor
+<pb n="6" facs="tcp:46748:5"/> shuts the doore, and sets both his hands upon him, calling him Rogue and Rascall, and many other names, insomuch that the man fearing he would doe him a mischiefe, cryed out; Mistresse <hi>Cozens</hi> com<g ref="char:EOLhyphen"/>ming in, endeavoured to appease her husband, and holding his hands, the other ran away.</p>
+            <p n="21">21. That the Doctor did seek many unjust waies to insnare this man, that so he might take a just occasion to put him out of his place, but none of them taking effect, he put him out by violence, having no other reason why he did so, but because he had no good voice, when as he had served the place two yeares be<g ref="char:EOLhyphen"/>fore D. <hi>Cozens</hi> came thither: For instance of which unjust waies to ensnare this man, D. <hi>Cozens</hi> hired a man and a woman to pretend a desire of Matrimony, and to offer a summe of money to this petty Canon to contract Matrimony between them in a private Chamber, so thereupon to take advantage of his re<g ref="char:EOLhyphen"/>venge upon him; This plot being confessed by the parties to be first laid by D. <hi>Cozens,</hi> and that they were his instruments.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46748:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
